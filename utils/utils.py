@@ -4,7 +4,7 @@ import torch
 import PIL
 from PIL import Image
 from skimage.metrics import peak_signal_noise_ratio
-from utils.data import Data
+from DeepRED.utils.data import Data
 
 
 # ---- Scaling image ---- # 
